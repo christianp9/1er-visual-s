@@ -1,0 +1,16 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-spinner": "^0.2.8",
+    "node-notifier": "^5.2.1",
+    "spinner": "^0.3.4"
+  }
+}
